@@ -34,7 +34,7 @@ This notebook simulates Cosmic Microwave Background (CMB) maps and analyzes thei
 - Graph metrics(Global Clustering, Degree Distribution)
 
 
-5. Key Techniques Used
+### Key Techniques Used
 
 - Random field generation with power spectrum modeling.
 
@@ -47,3 +47,12 @@ This notebook simulates Cosmic Microwave Background (CMB) maps and analyzes thei
 - Statistical correlations (Pearson, Spearman, Kendall) between node degrees.
 
 - Clustering coefficient & degree distribution for network characterization.
+
+
+![cmb_map](https://github.com/user-attachments/assets/5d822385-86dc-4a25-8e55-470f31052d88)
+
+![edges](https://github.com/user-attachments/assets/f8972e23-2762-4482-b846-cd9f1a041b03)
+
+![corr](https://github.com/user-attachments/assets/a120c344-6770-4ea9-a52e-1559211e4bbc)
+
+
