@@ -28,16 +28,22 @@ This notebook simulates Cosmic Microwave Background (CMB) maps and analyzes thei
 
 4. Statistical & Graph Analysis
 
-- Correlation measures:
+- Correlation measures(Pearson, Spearman, Kendall)
 
-calculate_graph_pearson_correlation
 
-calculate_graph_spearman_correlation
+- Graph metrics(Global Clustering, Degree Distribution)
 
-calculate_graph_kendall_correlation
 
-- Graph metrics:
+5. Key Techniques Used
 
-calculate_global_clustering → computes clustering coefficient.
+- Random field generation with power spectrum modeling.
 
-calculate_degree_distribution → evaluates node connectivity distribution.
+- Gaussian smoothing to simulate telescope beam effects.
+
+- Peak detection for CMB local extrema.
+
+- Graph-based representation of spatial relationships.
+
+- Statistical correlations (Pearson, Spearman, Kendall) between node degrees.
+
+- Clustering coefficient & degree distribution for network characterization.
