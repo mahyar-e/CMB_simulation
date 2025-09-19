@@ -9,9 +9,9 @@ This notebook simulates Cosmic Microwave Background (CMB) maps and analyzes thei
 
 1. CMB Map Generation
 
-- generate_cmb_map(n, pixel_size, A, ell_0, alpha, fwhm, mean_temp) → creates a 2D CMB temperature map from a simplified power spectrum with Gaussian random fields.
+  - generate_cmb_map(n, pixel_size, A, ell_0, alpha, fwhm, mean_temp) → creates a 2D CMB temperature map from a simplified power spectrum with Gaussian random fields.
 
-- Uses Fourier transforms and beam smoothing (Gaussian filter) to model telescope resolution.
+  - Uses Fourier transforms and beam smoothing (Gaussian filter) to model telescope resolution.
 
 
 2. Feature Extraction
